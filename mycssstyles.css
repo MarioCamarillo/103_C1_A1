@@ -1,0 +1,18 @@
+/*Global*/
+body{
+    background-color: rgb(216, 208, 208);
+    color: rgb(65, 64, 64);
+}
+
+/*All the paragraphs*/
+p{
+    font-size: 1.25rem;
+}
+
+/*just the the paragraphs of the java script file*/
+.p-for-js {
+    text-align: center;
+    width: 10rem;
+    background-color: azure;
+    color:black;
+}
